@@ -1,171 +1,161 @@
-administration,pourcentage_reponses,nb_demandes
-Caisse d'allocations familiales de Paris (CAF 75),1.0,11
-Ministère de l'éducation nationale et de la jeunesse,0.09,11
-Syndicat mixte des eaux de la région Rhône-Ventoux (SMERRV),0.09,11
-Caisse d'allocations familiales du Gard (CAF 30),0.09,11
-Nantes Métropole,0.09,11
-Centre hospitalier intercommunal Toulon - La Seyne-sur-Mer (CHITS),0.36,11
-Conseil départemental de la Loire-Atlantique,0.09,11
-Agence régionale de santé Occitanie (ARS 34 - Direction générale),0.36,11
-Conseil départemental d'Ille-et-Vilaine,0.27,11
-Préfecture de l'Aude,0.27,11
-EDF,1.0,11
-Caisse Nationale de retraite des Industries Electriques et Gazières (CNIEG),1.0,11
-Conseil départemental des Hauts-de-Seine,0.09,11
-Conseil départemental du Val-de-Marne,0.45,11
-Préfecture de Vaucluse,0.09,11
-URSSAF d'Ile-de-France,0.18,11
-"Service interacadémique des examens et concours des académies de Créteil, Paris et Versailles (SIEC)",0.64,11
-Préfecture de la Manche,0.18,11
-Rectorat de l'académie d'Aix-Marseille (AC 13),0.18,11
-Mairie de Gugnécourt,1.0,11
-Caisse primaire d'assurance maladie des Bouches-du-Rhône (CPAM 13),0.55,11
-Rectorat de l'académie de Montpellier (AC 34),0.45,11
-Mairie de Clamart,0.45,11
-Métropole européenne de Lille (MEL),0.55,11
-Centre hospitalier universitaire de Toulouse (CHU),1.0,12
-Mairie de Carpentras,0.42,12
-Caisse primaire d'assurance maladie des Yvelines (CPAM 78),0.42,12
-Préfecture du Bas-Rhin,0.25,12
-Communauté d'agglomération du bassin d'Arcachon Sud (COBAS),0.25,12
-Mairie d'Arles,0.17,12
-Mairie de Dijon,1.0,12
-Conseil de Paris,0.17,12
-Caisse primaire d'assurance maladie de l'Isère (CPAM 38),0.17,12
-Conseil régional de Provence-Alpes-Côte-d'Azur,0.58,12
-Mairie de Tours,1.0,12
-Mairie de Lesparre-Médoc,0.08,12
-Centre national de la recherche scientifique (CNRS),1.0,12
-Caisse primaire d'assurance maladie du Val-de-Marne (CPAM 94),0.08,12
-Centre hospitalier régional universitaire de Lille,0.08,12
-Mairie de Nice,0.08,12
-Mairie de Salses-le-Château,0.08,12
-Préfecture de la Moselle,0.08,12
-Centre hospitalier universitaire de Grenoble Alpes (CHU),0.67,12
-Caisse nationale d'assurance vieillesse (CNAV),0.31,13
-Agence régionale de santé (ARS) d'Ile-de-France (Direction générale),0.08,13
-Conseil départemental du Var,0.08,13
-Mairie de Saint-Ouen,0.23,13
-Défenseur des droits,0.08,13
-Mairie de Bordeaux,0.46,13
-RATP,0.31,13
-Conseil départemental des Côtes-d'Armor,0.08,13
-Centre hospitalier régional universitaire de Besançon (CHRU Besançon),0.08,13
-Mairie de Rueil-Malmaison,0.46,13
-Direction départementale des territoires et de la mer du Var (DDTM 83),0.23,13
-Centre hospitalier intercommunal Poissy Saint-Germain-en-Laye (site de Poissy),0.31,13
-Centre hospitalier régional universitaire de Nancy (CHRU),0.15,13
-Conseil départemental du Nord,0.23,13
-Caisse primaire d'assurance maladie des Hauts-de-Seine (CPAM 92) ,0.38,13
-Mairie de Préseau,0.38,13
-Mairie de Scy-Chazelles,1.0,13
-"Ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche",1.0,13
-Mairie de Maisons-Alfort,0.08,13
-Préfecture du Var,1.0,14
-Mairie d'Aigues-Vives,0.36,14
-Centre hospitalier universitaire de Bordeaux,0.29,14
-Communauté de communes du Grand Chambord,0.29,14
-Préfecture de la Gironde,0.36,14
-Préfecture de Saône-et-Loire,0.36,14
-Commission nationale de l'informatique et des libertés (CNIL),0.21,14
-Préfecture des Yvelines,0.36,14
-Conseil régional d'Auvergne Rhône-Alpes,0.21,14
-Centre hospitalier universitaire de Pointe-à-Pitre/Abymes,0.21,14
-Université d'Aix-Marseille,0.57,14
-Fédération française de karaté et disciplines associées (FFKDA),0.07,14
-Mairie de Grenoble,0.07,14
-Office français de protection des réfugiés et apatrides (OFPRA),0.5,14
-Conseil départemental du Pas-de-Calais (CD 62),1.0,14
-Agence nationale de sécurité du médicament et des produits de santé (ANSM),1.0,14
-Conseil régional d'Ile-de-France,0.14,14
-ENEDIS (ex-ERDF),0.14,14
-Préfecture de la Loire-Atlantique,0.14,14
-Préfecture de La Réunion,0.21,14
-Mairie de Lille,0.33,15
-Mairie de Saint-Denis (974),0.67,15
-Mairie de Boisemont,1.0,15
-Préfecture du Nord,0.13,15
-Ministère des sports,0.13,15
-Préfecture de la Haute-Garonne,0.13,15
-Préfecture des Pyrénées-Orientales,0.2,15
-Rectorat de l'académie de Créteil (AC 94),0.13,15
-Centre hospitalier universitaire de Bordeaux (CHU),0.73,15
-"Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi d'Ile-de-France (DIRECCTE 75)",0.33,15
-Conseil départemental de la Guadeloupe,0.13,15
-Conseil départemental de l'Essonne,0.47,15
-Conseil régional Hauts-de-France (Nord-Pas-de-Calais-Picardie),0.12,16
-Préfecture du Gard,0.19,16
-Conseil départemental de la Dordogne,0.06,16
-Mairie de Perpignan,0.12,16
-Hospices civils de Lyon,0.29,17
-Direction générale de l'aviation civile (DGAC),0.18,17
-Préfecture de l'Isère,0.41,17
-Rectorat de l'académie de Paris (AC 75),0.65,17
-"Ministère de l'environnement, de l'énergie et de la mer",0.67,18
-Gouvernement de la Nouvelle-Calédonie,0.39,18
-Ministère des affaires étrangères et du développement international,1.0,18
-Eurométropole de Strasbourg,0.22,18
-Banque de France,0.06,18
-Mairie de Nîmes,0.06,18
-Mairie de Toulouse,0.06,18
-Préfecture du Finistère,0.17,18
-Mairie de Lyon,0.32,19
-Caisse primaire d'assurance maladie de Paris (CPAM 75),0.53,19
-Conseil départemental de Seine-et-Marne,0.21,19
-Caisse nationale d'assurance maladie des travailleurs salariés (CNAMTS 75),0.32,19
-Préfecture du Pas-de-Calais,0.3,20
-Préfecture du Val-d'Oise,0.25,20
-Préfecture du Rhône,0.15,20
-Préfecture des Alpes-Maritimes,0.65,20
-Métropole de Lyon,0.05,20
-Préfecture de la Charente-Maritime,0.29,21
-Conseil départemental de l'Isère,0.1,21
-Caisse primaire d'assurance maladie du Rhône (CPAM 69),0.57,21
-Rectorat de l'académie de Versailles (AC 78),0.57,21
+administration,pourcentage_reponse,nb_demandes
+Direction générale des finances publiques (DGFIP),0.07,576
+"X, député",1.0,420
+Ministère de la Justice,0.38,356
+Ministère de l'Intérieur,0.26,217
+Assistance Publique-Hôpitaux de Paris (AP-HP),0.62,186
+Ministère des Armées,0.11,180
+Ministère de l'Europe et des affaires étrangères,0.28,148
+"X, députée",1.0,147
+Ministère de la justice,0.21,146
+Mairie de Paris,0.11,139
+Ministère de l'intérieur,0.22,127
+Préfecture de police de Paris,0.51,99
+Direction générale des patrimoines,0.11,83
+La Poste,0.23,70
+Mairie de Villeneuve-d'Ascq,0.07,60
+Ministère de la Transition écologique et solidaire,0.52,58
+Ministère de la culture,0.52,54
+Ministère des solidarités et de la santé,0.26,53
+Pôle emploi,0.19,52
+Préfecture du Val-de-Marne,0.24,50
+Communauté d'agglomération de Quimperlé,1.0,46
+Caisse interprofessionnelle de prévoyance et d'assurance vieillesse (CIPAV),0.73,45
+Préfecture de la Seine-Saint-Denis,0.47,43
+Ministère de la défense,0.02,40
+Préfecture des Hauts-de-Seine,0.64,39
+Ministère du travail,0.47,38
+Ministère de l'éducation nationale,0.08,37
+Premier ministre,0.23,31
+Assistance publique-Hôpitaux de Marseille (AP-HM),0.23,31
+Ministère de l'agriculture et de l'alimentation,0.1,31
+Caisse primaire d'assurance maladie des Hauts-de-Seine (CPAM 92),0.16,31
+Préfecture de Seine-et-Marne,0.39,31
+Mairie de Villeneuve-Saint-Georges,0.43,28
+Mairie de Strasbourg,0.33,27
+Office français de l'immigration et de l'intégration (OFII),0.15,27
+Direction générale des douanes et droits indirects (DGDDI),0.19,26
+Préfecture des Bouches-du-Rhône,0.35,26
+Mairie de Marseille,0.27,26
+Préfecture de l'Essonne,0.24,25
+Metz Métropole,0.04,25
+Mairie de Montpellier,0.5,24
+Mairie de Savigny-sur-Orge,0.33,24
+Office national des forêts (ONF),0.17,24
 SNCF,0.09,22
 Orange Groupe,0.59,22
 Caisse primaire d'assurance maladie de la Seine-Saint-Denis (CPAM 93),0.23,22
-Préfecture de l'Hérault,0.39,23
-Mairie de Savigny-sur-Orge,0.33,24
-Office national des forêts (ONF),0.17,24
-Mairie de Montpellier,0.5,24
-Metz Métropole,0.04,26
-Préfecture de l'Essonne,0.23,26
-Mairie de Marseille,0.27,26
-Préfecture des Bouches-du-Rhône,0.33,27
-Office français de l'immigration et de l'intégration (OFII),0.15,27
-Mairie de Strasbourg,0.33,27
-Mairie de Villeneuve-Saint-Georges,0.43,28
-Direction générale des douanes et droits indirects (DGDDI),0.17,29
-Premier ministre,0.23,31
-Préfecture de Seine-et-Marne,0.39,31
-Caisse primaire d'assurance maladie des Hauts-de-Seine (CPAM 92),0.16,31
-Ministère de l'agriculture et de l'alimentation,0.09,33
-Assistance publique-Hôpitaux de Marseille (AP-HM),0.2,35
-Ministère de l'éducation nationale,0.08,37
-Ministère du travail,0.47,38
-Préfecture des Hauts-de-Seine,0.64,39
-Ministère de la défense,0.02,41
-Préfecture de la Seine-Saint-Denis,0.47,43
-Caisse interprofessionnelle de prévoyance et d'assurance vieillesse (CIPAV),0.73,45
-Communauté d'agglomération de Quimperlé,1.0,46
-Préfecture du Val-de-Marne,0.24,51
-Ministère de la culture,0.52,54
-Pôle emploi,0.19,54
-Ministère des solidarités et de la santé,0.25,55
-Ministère de la Transition écologique et solidaire,0.5,60
-Mairie de Villeneuve-d'Ascq,0.07,61
-La Poste,0.23,70
-Direction générale des patrimoines,0.1,86
-Préfecture de police de Paris,0.5,100
-Ministère de l'intérieur,0.22,128
-Mairie de Paris,0.11,139
-Ministère de la justice,0.21,146
-"X, députée",1.0,147
-Ministère de l'Europe et des affaires étrangères,0.28,148
-Ministère des Armées,0.11,180
-Assistance Publique-Hôpitaux de Paris (AP-HP),0.61,189
-Ministère de l'Intérieur,0.26,217
-Ministère de la Justice,0.38,356
-"X, député",1.0,420
-Direction générale des finances publiques (DGFIP),0.07,580
+Préfecture de l'Hérault,0.41,22
+Préfecture de la Charente-Maritime,0.29,21
+Caisse primaire d'assurance maladie du Rhône (CPAM 69),0.57,21
+Rectorat de l'académie de Versailles (AC 78),0.57,21
+Conseil départemental de l'Isère,0.1,20
+Préfecture du Pas-de-Calais,0.3,20
+Préfecture des Alpes-Maritimes,0.65,20
+Préfecture du Val-d'Oise,0.25,20
+Métropole de Lyon,0.05,19
+Conseil départemental de Seine-et-Marne,0.21,19
+Caisse primaire d'assurance maladie de Paris (CPAM 75),0.53,19
+Mairie de Lyon,0.33,18
+Caisse nationale d'assurance maladie des travailleurs salariés (CNAMTS 75),0.33,18
+Mairie de Toulouse,0.06,18
+Gouvernement de la Nouvelle-Calédonie,0.39,18
+"Ministère de l'environnement, de l'énergie et de la mer",0.67,18
+Banque de France,0.06,18
+Ministère des affaires étrangères et du développement international,1.0,18
+Préfecture du Rhône,0.18,17
+Hospices civils de Lyon,0.29,17
+Direction générale de l'aviation civile (DGAC),0.18,17
+Eurométropole de Strasbourg,0.24,17
+Rectorat de l'académie de Paris (AC 75),0.65,17
+Préfecture du Finistère,0.18,17
+Conseil régional Hauts-de-France (Nord-Pas-de-Calais-Picardie),0.12,16
+Mairie de Perpignan,0.12,16
+Mairie de Lille,0.33,15
+Centre hospitalier universitaire de Bordeaux (CHU),0.73,15
+Mairie de Saint-Denis (974),0.67,15
+Préfecture de l'Isère,0.47,15
+Mairie de Boisemont,1.0,15
+Ministère des sports,0.13,15
+Préfecture des Pyrénées-Orientales,0.2,15
+Conseil départemental de la Guadeloupe,0.13,15
+Préfecture de la Haute-Garonne,0.13,15
+Préfecture du Gard,0.2,15
+Rectorat de l'académie de Créteil (AC 94),0.13,15
+Fédération française de karaté et disciplines associées (FFKDA),0.07,14
+Agence nationale de sécurité du médicament et des produits de santé (ANSM),1.0,14
+Préfecture de La Réunion,0.21,14
+Conseil départemental de l'Essonne,0.5,14
+Office français de protection des réfugiés et apatrides (OFPRA),0.5,14
+Université d'Aix-Marseille,0.57,14
+Préfecture du Nord,0.14,14
+Préfecture de la Loire-Atlantique,0.14,14
+Centre hospitalier universitaire de Pointe-à-Pitre/Abymes,0.21,14
+Mairie de Nîmes,0.07,14
+Préfecture de la Gironde,0.36,14
+ENEDIS (ex-ERDF),0.14,14
+Centre hospitalier régional universitaire de Nancy (CHRU),0.15,13
+Conseil départemental du Nord,0.23,13
+Défenseur des droits,0.08,13
+Mairie de Grenoble,0.08,13
+Mairie de Bordeaux,0.46,13
+"Ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche",1.0,13
+Préfecture de Saône-et-Loire,0.38,13
+Caisse primaire d'assurance maladie des Hauts-de-Seine (CPAM 92) ,0.38,13
+Mairie de Préseau,0.38,13
+Caisse nationale d'assurance vieillesse (CNAV),0.31,13
+Communauté de communes du Grand Chambord,0.31,13
+Centre hospitalier universitaire de Bordeaux,0.31,13
+Centre hospitalier intercommunal Poissy Saint-Germain-en-Laye (site de Poissy),0.31,13
+RATP,0.31,13
+Préfecture des Yvelines,0.38,13
+Conseil régional d'Ile-de-France,0.15,13
+Direction départementale des territoires et de la mer du Var (DDTM 83),0.23,13
+Mairie de Maisons-Alfort,0.08,13
+Conseil départemental du Pas-de-Calais (CD 62),1.0,13
+Préfecture du Var,1.0,13
+Conseil départemental de la Dordogne,0.08,13
+Agence régionale de santé (ARS) d'Ile-de-France (Direction générale),0.08,12
+Mairie de Nice,0.08,12
+Mairie de Salses-le-Château,0.08,12
+Conseil départemental du Var,0.08,12
+Centre national de la recherche scientifique (CNRS),1.0,12
+Centre hospitalier régional universitaire de Lille,0.08,12
+Conseil départemental des Côtes-d'Armor,0.08,12
+Centre hospitalier universitaire de Grenoble Alpes (CHU),0.67,12
+Mairie de Saint-Ouen,0.25,12
+"Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi d'Ile-de-France (DIRECCTE 75)",0.42,12
+Mairie de Rueil-Malmaison,0.5,12
+Caisse primaire d'assurance maladie des Yvelines (CPAM 78),0.42,12
+Mairie d'Aigues-Vives,0.42,12
+Caisse primaire d'assurance maladie de l'Isère (CPAM 38),0.17,12
+Conseil de Paris,0.17,12
+Conseil régional d'Auvergne Rhône-Alpes,0.25,12
+Mairie de Carpentras,0.42,12
+Commission nationale de l'informatique et des libertés (CNIL),0.25,12
+Rectorat de l'académie d'Aix-Marseille (AC 13),0.18,11
+Caisse Nationale de retraite des Industries Electriques et Gazières (CNIEG),1.0,11
+Mairie de Dijon,1.0,11
+URSSAF d'Ile-de-France,0.18,11
+Mairie de Gugnécourt,1.0,11
+Préfecture du Bas-Rhin,0.27,11
+Caisse d'allocations familiales de Paris (CAF 75),1.0,11
+Centre hospitalier intercommunal Toulon - La Seyne-sur-Mer (CHITS),0.36,11
+Agence régionale de santé Occitanie (ARS 34 - Direction générale),0.36,11
+Préfecture de l'Aude,0.27,11
+EDF,1.0,11
+Mairie de Lesparre-Médoc,0.09,11
+Centre hospitalier régional universitaire de Besançon (CHRU Besançon),0.09,11
+Conseil départemental du Val-de-Marne,0.45,11
+Mairie de Clamart,0.45,11
+Rectorat de l'académie de Montpellier (AC 34),0.45,11
+Conseil régional de Provence-Alpes-Côte-d'Azur,0.64,11
+"Service interacadémique des examens et concours des académies de Créteil, Paris et Versailles (SIEC)",0.64,11
+Nantes Métropole,0.09,11
+Préfecture de Vaucluse,0.09,11
+Conseil départemental des Hauts-de-Seine,0.09,11
+Ministère de l'éducation nationale et de la jeunesse,0.09,11
+Caisse primaire d'assurance maladie des Bouches-du-Rhône (CPAM 13),0.55,11
+Métropole européenne de Lille (MEL),0.55,11
+Caisse primaire d'assurance maladie du Val-de-Marne (CPAM 94),0.09,11
+Communauté d'agglomération du bassin d'Arcachon Sud (COBAS),0.27,11
