@@ -11,7 +11,7 @@ df = df.loc[df.Avis.fillna("").str.contains("En l'absence de réponse"), :]
 no_responses_admin = df.Administration.value_counts()
 no_responses_admin = no_responses_admin.loc[by_admin.index]
 
-pct = (no_responses_admin / by_admin).fillna(1).sort_values()
+pct = 1 - ((no_responses_admin / by_admin).fillna(0)).sort_values()
 
 final = pd.concat(
     [pct.round(2).rename("pourcentage_reponse"), by_admin.rename("nb_demandes")],
