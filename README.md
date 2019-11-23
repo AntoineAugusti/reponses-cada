@@ -13,4 +13,5 @@ Actuellement, le jeu de données va jusqu'à mars 2019. On obtient ainsi des don
 Consulter [la feuille de calcul Google](https://docs.google.com/spreadsheets/d/12LSOS67vAXINk5ufp9ZxxtreyRei9Y8jEvukYXadUo4/edit) en complément des [données brutes](data.csv).
 
 ## Licence
-Licence Ouverte.
+- Données sous Licence Ouverte ;
+- Code source sous licence MIT.
